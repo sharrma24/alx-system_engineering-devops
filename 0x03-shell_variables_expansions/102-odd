@@ -1,0 +1,2 @@
+#!/bin/bash
+per1 -line 'print if $. % 2 ==1'
