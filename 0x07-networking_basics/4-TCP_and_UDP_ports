@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+#Shows open ports, encompassing those in a listening state, which also includes listening sockets.
+#Specifies the Process ID (PID) and the program name associated with each socket.
+
+netstat -l --program
