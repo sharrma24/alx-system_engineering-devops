@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#Sends five ping requests to the provided IP address argument.
+#Sends five 5  requests to the provided IP address argument.
 
 if [ $# -eq 0 ]
 then
